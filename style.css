@@ -197,7 +197,6 @@ section {
 
 .section__text__p1 {
   text-align: center;
-  margin-top: 10px;
 }
 
 .section__text__p2 {
@@ -207,7 +206,7 @@ section {
 
 .title {
   font-size: 3rem;
-   margin-bottom: 20px;
+  margin-bottom: 20px;
    margin-top: auto;
    text-align: center;
 }
@@ -383,6 +382,7 @@ article .icon {
 #projects {
   margin-top: 100px;
   position: relative;
+  text-align: center;
 }
 
 .color-container {
