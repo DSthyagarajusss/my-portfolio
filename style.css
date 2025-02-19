@@ -189,6 +189,7 @@ section {
 .section__text {
   align-self: center;
   text-align: center;
+  margin-top: -2rem;
 }
 
 .section__text p {
@@ -284,6 +285,7 @@ section {
 
 #about {
   position: relative;
+  margin-top: -20vh;
   
 }
 
@@ -307,6 +309,9 @@ section {
   border-radius: 120px;
 
 
+}
+.text-container{
+  
 }
 
 .arrow {
@@ -342,6 +347,7 @@ section {
 
 #experience {
   position: relative;
+  margin-top: 4rem;
 }
 
 .experience-sub-title {
@@ -380,13 +386,13 @@ article .icon {
 /* PROJECTS SECTION */
 
 #projects {
-  margin-top: 100px;
+  margin-top: -20px;
   position: relative;
   text-align: center;
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
+  border-color: rgb(185, 22, 22);
   background: 	#C4A484;
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgba(0, 0, 0, 0.1);
 }
